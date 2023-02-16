@@ -4,6 +4,7 @@
 - 💞️ I’m currently working as Angular developer
 - 📫 For any query mail me at satyam.sinha@navsoft.in
 - skype profile 👉 https://join.skype.com/invite/y7DBsHuqarB7
+- https://satyamsinha.com/
 
 <!---
 satyamcoderknight/satyamcoderknight is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
